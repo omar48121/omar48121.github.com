@@ -8,7 +8,7 @@ header {
     color: #fff;
     text-align: center;
     position: absolute;
-	top: 4em;
+	top: 30vh;
 	left: 50%;
 	height: 30%;
 	width: 50%;
@@ -28,13 +28,12 @@ header {
 .title {
     text-align: center;
     margin-top: 1em;
-    text-shadow: 4px 3px 5px rgba(0, 0, 0, 0.1);
 }
 .info-div {
     padding: 1em;
 }
 .text {
-    font-size: 1.2em;
+    font-size: 1em;
     text-align: center;
     line-height: 1.5em;
 }
