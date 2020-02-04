@@ -115,18 +115,17 @@ progress[value] {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-
     width: 80%;
     margin-top: 0.5em;
 }
 progress::-webkit-progress-bar { /* fondo en chrome, safari, opera*/
-    background-color: rgb(235, 235, 235);
+    background-color: #fff;
     border-radius: 0.5em;
 }
-progress { /* fonde en firefox, ie, edge */
-    background-color: rgb(235, 235, 235);
+progress { /* fondo en firefox, ie, edge */
+    background-color: #fff;
     border-radius: 0.5em;
-    border: none;
+    border: 2px solid #fff;
 }
 /* Relleno de la barra en Chrome, Safari, Opera… */
 progress::-webkit-progress-value {
