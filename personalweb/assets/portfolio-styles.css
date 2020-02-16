@@ -25,6 +25,9 @@ html {
     color: #fff;
     text-align: center;
 }
+a {
+    text-decoration: none;
+}
 .project-link {
     text-decoration: underline;
 }
