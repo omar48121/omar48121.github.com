@@ -2,4 +2,4 @@
 
 Old personal portfolio on github pages (obsolete).
 
-[Portfolio link](https://omar48121.github.io/personalwe)
+[Portfolio link](https://omar48121.github.io/personalweb)
